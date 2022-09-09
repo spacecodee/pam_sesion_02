@@ -1,5 +1,6 @@
 
-i
-9app/src/main/java/com/spacecodee/app/guia02/Subtract.java,d\f\dfd9c56c89d7a3357513b6086faa750c63ba6b75
-j
-:app/src/main/java/com/spacecodee/app/guia02/VPAdapter.java,5\b\5ba0bc5644d21becdf0887e248aaf59edb248c9d
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
